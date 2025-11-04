@@ -1,12 +1,13 @@
 {
   "name": "@dougcaval/playwright_dcaval_lib",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "Lib updated for dcaval",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/microsoft/playwright.git"
   },
+  
   "homepage": "https://playwright.dev",
   "engines": {
     "node": ">=18"
