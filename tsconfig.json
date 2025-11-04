@@ -9,5 +9,5 @@
     "strict": true,
     "skipLibCheck": true
   },
-  "include": ["index.ts", "utils/**/*.ts"]
+  "include": ["playwright_dcaval_lib/src/index.ts","utils/**/*.ts"]
 }
