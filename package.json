@@ -1,8 +1,8 @@
 {
-  "name": "playwright-internal",
+  "name": "@dougcaval/playwright_dcaval_lib",
   "private": true,
-  "version": "1.57.0-next",
-  "description": "A high-level API to automate web browsers",
+  "version": "1.0.0",
+  "description": "Lib updated for dcaval",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/microsoft/playwright.git"
